@@ -237,10 +237,6 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2162/index
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/315913.ts
 #EXTINF:-1 tvg-id="3233" tvg-logo="http://egp.it999.ru/img2/3233.png" group-title="INT-Brands",Vivid TV Europe
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6264/index.m3u8
-#EXTINF:-1 tvg-id="rch_98" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_98.png" group-title="JP-Adult",セクシーエンタメチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-id="rch_42" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png" group-title="JP-Adult",映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 group-title="TW-Adult",松视1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 group-title="TW-Adult",松视2
@@ -251,3 +247,27 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 #EXTINF:-1 group-title="TW-Adult",彩虹
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="INT-Category",MyCamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="INT-Category",MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="INT-Category",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="INT-Category",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="INT-Category",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="INT-Category",Threesome
+http://cdn.adultiptv.net/threesome.m3u8

@@ -58,7 +58,6 @@ Miami TV | US,https://59ec5453559f0.streamlock.net/LIVE1/smil:88964/playlist.m3u
 Hardcore | US,https://live.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
 Pornstar | US,https://live.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 Gangbang  | US,http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
-
 INT-Brands,#genre#
 Beate Uhse,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12163/index.m3u8
 BLUE HUSTLER,http://neorcqds.top:8080/4241763327415375/f206ced7f9fb/73817
@@ -120,12 +119,22 @@ Vivid red,http://s3.phorious.art:15728/4a4606511f48440d58224246075327404e045f594
 Vivid Red HD,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/2162/index.m3u8
 Vivid TV Europe,http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/315913.ts
 Vivid TV Europe,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6264/index.m3u8
-JP-Adult,#genre#
-セクシーエンタメチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-映画（年齢制限あり）,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 TW-Adult,#genre#
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+INT-Category,#genre#
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
+MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
